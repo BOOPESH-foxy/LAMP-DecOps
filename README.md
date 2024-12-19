@@ -1,1 +1,1 @@
-# LAMP-DecOps
+# LAMP-DevOps
